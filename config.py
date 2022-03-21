@@ -8,7 +8,7 @@ CHAT_ID = '-1001666279733'
 USUARIO = 'jsataury '
 MOODLE_PASSWORD = 'chichi123-'
 USUARIO_ID = 3588 #Tu id
-ZIP_MB = 249
+ZIP_MB = 399
 MOODLE_URL = 'https://moodle.uclv.edu.cu'
 
 # CUENTA DE MEGA - este bot sirve par mega tambien
